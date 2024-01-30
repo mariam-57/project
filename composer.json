@@ -1,0 +1,18 @@
+{
+    "name": "project/mvc",
+    "description": "project mvc",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Project\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mariam ahmed",
+            "email": "ma2114669@gmail.com"
+        }
+    ],
+    "require": {}
+}
